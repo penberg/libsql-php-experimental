@@ -2,6 +2,10 @@
 
 libSQL is an open source, open contribution fork of SQLite. This source repository contains libSQL API bindings for PHP, which aims to be compatible with the [SQLite3 database extension](https://www.php.net/manual/en/book.sqlite3.php).
 
+**Please note that this is work-in-progress. If you are looking for a libSQL PHP SDK to us in production, this is not it.**
+
+## Getting Started
+
 ```
 cargo build
 ```
